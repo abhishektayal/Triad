@@ -1,0 +1,75 @@
+Manager Port:60810
+1-------value of DGRAM socket is: 
+sent nonce:1234
+sent client name:delta
+sent the FP:0
+sent FS:delta
+received Dgram port of  client: 53182
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234delta
+1-------value of DGRAM socket is: 53182
+sent nonce:1234
+sent client name:bravo
+sent the FP:53182
+sent FS:delta
+received Dgram port of  client: 53185
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234bravo
+1-------value of DGRAM socket is: 53182
+sent nonce:1234
+sent client name:charlie
+sent the FP:53182
+sent FS:delta
+received Dgram port of  client: 53188
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234charlie
+1-------value of DGRAM socket is: 53182
+sent nonce:1234
+sent client name:alpha
+sent the FP:53182
+sent FS:delta
+received Dgram port of  client: 53191
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234alpha
+1-------value of DGRAM socket is: 53182
+sent nonce:1234
+sent client name:echo
+sent the FP:53182
+sent FS:delta
+received Dgram port of  client: 53194
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234echo
+1-------value of DGRAM socket is: 53182
+sent nonce:1234
+sent client name:foxtrot
+sent the FP:53182
+sent FS:delta
+received Dgram port of  client: 53197
+value of FIRST client is: 1
+received NONCE+Sx of  client: 1234foxtrot
+sent instruction:store-alphaover socket: 5
+received reply to instruction sent: OK
+sent instruction:store-betaover socket: 5
+received reply to instruction sent: OK
+sent instruction:store-gammaover socket: 5
+received reply to instruction sent: OK
+sent instruction:store-deltaover socket: 5
+received reply to instruction sent: OK
+sent instruction:store-epsilonover socket: 5
+received reply to instruction sent: OK
+sent instruction:search-deltaover socket: 5
+received reply to instruction sent: OK
+sent instruction:search-betaover socket: 5
+received reply to instruction sent: OK
+sent instruction:kill_client-dieover socket: 5
+received reply to instruction sent: OK
+sent instruction:kill_client-dieover socket: 6
+received reply to instruction sent: 
+sent instruction:kill_client-dieover socket: 7
+received reply to instruction sent: 
+sent instruction:kill_client-dieover socket: 8
+received reply to instruction sent: 
+sent instruction:kill_client-dieover socket: 9
+received reply to instruction sent: 
+sent instruction:kill_client-dieover socket: 10
+received reply to instruction sent: 
